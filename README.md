@@ -2,7 +2,7 @@
 
 ### 2021년 1학기 운영체제
 
----
+----
 
 ### [Chap01 Introduction](https://github.com/hyunmin0317/OS_Study/blob/main/note/chap01_Introduction.md)
 
