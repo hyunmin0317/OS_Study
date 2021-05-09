@@ -14,3 +14,6 @@
 
 ### [Chap05 Process Synchronization](https://github.com/hyunmin0317/OS_Study/blob/main/note/chap05_Process-Synchronization.md)
 
+### Chap06 CPU Scheduling
+
+### Chap07 Main Memory
