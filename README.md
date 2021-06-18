@@ -14,7 +14,9 @@
 
 ### [Chap05 Process Synchronization](https://github.com/hyunmin0317/OS_Study/blob/main/note/chap05_Process-Synchronization.md)
 
-### Chap06 CPU Scheduling
+### [Chap06 CPU Scheduling](https://github.com/hyunmin0317/OS_Study/blob/main/note/chap06_CPU-Scheduling.md)
 
-### Chap07 Main Memory
+### [Chap07 Main Memory](https://github.com/hyunmin0317/OS_Study/blob/main/note/chap07_Main-Memory.md)
+
+### [Chap08 Virtual Memory](https://github.com/hyunmin0317/OS_Study/blob/main/note/chap08_Virtual-Memory.md)
 
